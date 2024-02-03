@@ -1,0 +1,21 @@
+/***************************************************************/
+/*               STYLE SHEET FOR MY BOOTSTRAP                  */
+/*             TRABAJO REALIZADO POR: ALBA ROMERO              */
+/*                        VERSIÓN 1.0                          */
+/***************************************************************/
+
+@font-face {
+    font-family: titulogrande;
+    src: url(../fonts/JosefinSans-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: texto;
+    src: url(../fonts/Rajdhani-Medium.ttf);
+}
+
+body {background-color: #F5CBA7;}
+
+h1, h2 {font-family: titulogrande;}
+
+li, table {font-family: texto;}
